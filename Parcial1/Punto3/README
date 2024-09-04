@@ -1,0 +1,6 @@
+Para correr este programa en C que nos permite contar cuantas veces esta la presencia de una palabra clave se debe:
+
+1) Ejecutar el comando gcc -o key palabraClave.c
+2) ./key input.txt (palabra clave)
+3) Ejemplo para la ejecución: ./key input.txt animales
+
